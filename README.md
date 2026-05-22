@@ -2,11 +2,6 @@
 
 Currently a Software Engineer @ KPMG, working across frontend, backend, and infra, but mostly interested in **devtooling**.
 
-In a nutshell, I aim to build systems that
-- Simplify complexity
-- Decrease ambiguity
-- Make other engineers faster
-
 ## Featured Work
 ### `@galitz-matt/ts-struct`
 A TypeScript DSL for structured document generation.
@@ -34,6 +29,3 @@ This project aims to make state explicit, enforce invariants, and eliminate inva
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/matthew-galitz-79048a1ba/)
-
-## My Mantra
-*Good tools don't solve problems, they make problems impossible to express*
